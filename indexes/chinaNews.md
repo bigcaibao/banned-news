@@ -1,3 +1,7 @@
+#### [美团点评IPO估值高达550亿美元--消息人士](../pages/chinaNews/idCNKCS1LI0DA.md) 
+
+#### [重庆将设立500亿元基金 支持集成电路产业发展--新华](../pages/chinaNews/idCNKCS1LI09J.md) 
+
 #### [中方欢迎欧盟终止对华光伏双反措施 实现互利共赢--商务部](../pages/chinaNews/idCNKCS1LI09F.md) 
 
 #### [海航集团上半年净利同比增逾六成 资产负债率略降至约59%](../pages/chinaNews/idCNKCS1LI09B.md) 
@@ -13,8 +17,4 @@
 #### [复星国际旗下复星旅游文化集团已申请于联交所主板上市](../pages/chinaNews/idCNKCS1LG1N3.md) 
 
 #### [中国下周推外币拆借报价行业务 境内美元同业拆放参考利率10点公布](../pages/chinaNews/idCNKCS1LG19A.md) 
-
-#### [中国证监会就沪伦通存托凭证价格及转换条件等征求意见（更新版）](../pages/chinaNews/idCNKCS1LG111.md) 
-
-#### [中国第七次修正个人所得税法获批 起征点提高后年减税约3200亿元（更新版）](../pages/chinaNews/idCNKCS1LG0S2.md) 
 

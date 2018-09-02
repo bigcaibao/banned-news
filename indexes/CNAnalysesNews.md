@@ -1,3 +1,9 @@
+#### [美股展望：美国基金经理减持银行股 因担心获利前景](../pages/CNAnalysesNews/idCNKCS1LI0DM.md) 
+
+#### [一周经济焦点：投资者结束夏日假期返场 迎接全球忧虑构筑的现实](../pages/CNAnalysesNews/idCNKCS1LI0AJ.md) 
+
+#### [焦点：美国将与墨西哥签署双边贸易协议 但将继续与加拿大谈判](../pages/CNAnalysesNews/idCNKCS1LI09N.md) 
+
 #### [《路透早报》--9月1日](../pages/CNAnalysesNews/idCNKCS1LG2XB.md) 
 
 #### [焦点：无惧违约风险和资管新规挑战 中资大行“面不改色”乐观看待经营前景](../pages/CNAnalysesNews/idCNKCS1LG11B.md) 
@@ -11,10 +17,4 @@
 #### [分析：上海原油期货侵蚀西方指标市场份额 助力人民币国际化](../pages/CNAnalysesNews/idCNKCS1LG0LQ.md) 
 
 #### [调查：中国基金经理未来三个月股票建议配比持平 谨慎气氛依旧](../pages/CNAnalysesNews/idCNKCS1LG0L4.md) 
-
-#### [调查：美股史上最长牛市料暂歇 明年再重启涨势](../pages/CNAnalysesNews/idCNKCS1LG0DP.md) 
-
-#### [焦点：非洲仍然欢迎中国贷款 尽管可能陷入债务困境](../pages/CNAnalysesNews/idCNKCS1LG0BN.md) 
-
-#### [焦点：欧盟与美国贸易关系虽缓和 但政策上仍有深刻分歧--贸易执委](../pages/CNAnalysesNews/idCNKCS1LG08R.md) 
 
