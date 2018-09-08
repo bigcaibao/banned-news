@@ -1,20 +1,18 @@
-#### [美股展望：美国基金经理减持银行股 因担心获利前景](../pages/CNAnalysesNews/idCNKCS1LI0DM.md) 
+#### [《路透早报》--9月8日](../pages/CNAnalysesNews/idCNKCS1LO00Q.md) 
 
-#### [一周经济焦点：投资者结束夏日假期返场 迎接全球忧虑构筑的现实](../pages/CNAnalysesNews/idCNKCS1LI0AJ.md) 
+#### [汇市一周综述：贸易战阴云不散 避险货币上涨](../pages/CNAnalysesNews/idCNKCS1LN0P9.md) 
 
-#### [焦点：美国将与墨西哥签署双边贸易协议 但将继续与加拿大谈判](../pages/CNAnalysesNews/idCNKCS1LI09N.md) 
+#### [调查：分析师再度下调澳新货币汇率预估 但仍难赶上现实跌势](../pages/CNAnalysesNews/idCNKCS1LN0OX.md) 
 
-#### [《路透早报》--9月1日](../pages/CNAnalysesNews/idCNKCS1LG2XB.md) 
+#### [分析：中国央行等额对冲到期MLF 宽信用导向不改政策仍稳中偏松](../pages/CNAnalysesNews/idCNKCS1LN0ES.md) 
 
-#### [焦点：无惧违约风险和资管新规挑战 中资大行“面不改色”乐观看待经营前景](../pages/CNAnalysesNews/idCNKCS1LG11B.md) 
+#### [综述：美国8月非农就业岗位预计将加速增长 失业率料下降](../pages/CNAnalysesNews/idCNKCS1LN0EW.md) 
 
-#### [焦点：MSCI纳A权重再调整吸引海外资金涌入 蓝筹与成长之争将延续](../pages/CNAnalysesNews/idCNKCS1LG0S8.md) 
+#### [焦点：沪伦通有望年内开通 两地市场差异较大投资者未寄予厚望](../pages/CNAnalysesNews/idCNKCS1LN0E4.md) 
 
-#### [汇市一周综述：美元英镑两重天 新兴货币卷“土”重跌](../pages/CNAnalysesNews/idCNKCS1LG0Q2.md) 
+#### [调查：新兴市场货币在8月严重受挫后料将反弹](../pages/CNAnalysesNews/idCNKCS1LN0E6.md) 
 
-#### [分析：财政支出助力月末资金面 中国央行料灵活应对地方债放量压力](../pages/CNAnalysesNews/idCNKCS1LG0NJ.md) 
+#### [焦点：日本薪资增长推动家庭支出反弹 但经济前景受贸易摩擦抑制](../pages/CNAnalysesNews/idCNKCS1LN090.md) 
 
-#### [分析：上海原油期货侵蚀西方指标市场份额 助力人民币国际化](../pages/CNAnalysesNews/idCNKCS1LG0LQ.md) 
-
-#### [调查：中国基金经理未来三个月股票建议配比持平 谨慎气氛依旧](../pages/CNAnalysesNews/idCNKCS1LG0L4.md) 
+#### [综述：美国初请失业金人数降至近49年低位 或促使美联储本月加息](../pages/CNAnalysesNews/idCNKCS1LN078.md) 
 

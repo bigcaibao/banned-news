@@ -1,20 +1,18 @@
-#### [惠誉将意大利评级展望降至负面 债信评级维持不变](../pages/CNIntlBizNews/idCNKCS1LI0DJ.md) 
+#### [白宫经济顾问库德洛称中美续商贸易问题 双方分歧犹存-CNBC](../pages/CNIntlBizNews/idCNKCS1LO025.md) 
 
-#### [新加坡11月峰会有望就区域全面经济伙伴关系达成广泛共识—官员](../pages/CNIntlBizNews/idCNKCS1LI0DD.md) 
+#### [美国总统特朗普称准备好对另外2670亿美元中国商品加征关税](../pages/CNIntlBizNews/idCNKCS1LO016.md) 
 
-#### [阿根廷披索小幅反弹 因央行干预及IMF发声支持](../pages/CNIntlBizNews/idCNKCS1LI0D6.md) 
+#### [欧股从五个月低位反弹 但贸易忧虑令本周跌幅创3月底来最大](../pages/CNIntlBizNews/idCNKCS1LO014.md) 
 
-#### [特朗普称不需在NAFTA中留住加拿大 警告国会不要干涉谈判](../pages/CNIntlBizNews/idCNKCS1LI0AR.md) 
+#### [美国原油因股市疲弱而微跌 布兰特原油因地缘政治因素小涨](../pages/CNIntlBizNews/idCNKCS1LO012.md) 
 
-#### [美股涨跌互见 美加贸易谈判未能达成协议](../pages/CNIntlBizNews/idCNKCS1LG2YL.md) 
+#### [金价走低 因美国就业数据推升美元](../pages/CNIntlBizNews/idCNKCS1LO010.md) 
 
-#### [金价攀升 因美中贸易前景恶化](../pages/CNIntlBizNews/idCNKCS1LG2YN.md) 
+#### [美元受强劲的美国8月就业报告带动上涨 但贸易争端持续](../pages/CNIntlBizNews/idCNKCS1LO00Y.md) 
 
-#### [国际油价下跌 因贸易战忧虑盖过伊朗制裁影响](../pages/CNIntlBizNews/idCNKCS1LG2YJ.md) 
+#### [苹果称一系列产品受到拟议的对华产品征税计划影响](../pages/CNIntlBizNews/idCNKCS1LO00W.md) 
 
-#### [美元连升第二日 因美加未达成贸易协议](../pages/CNIntlBizNews/idCNKCS1LG2YH.md) 
+#### [美股受关税忧虑打压收低 苹果暗示其产品可能被征税](../pages/CNIntlBizNews/idCNKCS1LO00U.md) 
 
-#### [欧股收低 因对贸易冲突的忧虑重现](../pages/CNIntlBizNews/idCNKCS1LG2YC.md) 
-
-#### [调查：分析师调降对2018年油价的预估 担心贸易战影响原油需求](../pages/CNIntlBizNews/idCNKCS1LG18J.md) 
+#### [美国新任驻欧盟大使称美欧必须联合对抗中国](../pages/CNIntlBizNews/idCNKCS1LN1BD.md) 
 

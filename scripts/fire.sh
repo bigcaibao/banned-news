@@ -11,9 +11,10 @@ rm *.xml
 git pull
 
 ## sync
-for sf in $(ls sync_*.sh); do
-	bash $sf
-done
+#for sf in $(ls sync_*.sh); do
+#	bash $sf
+#done
+bash sync_reuters.sh
 
 ## add to git
 git add ../indexes/*

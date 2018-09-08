@@ -1,20 +1,20 @@
-#### [美股展望：美国基金经理减持银行股 因担心获利前景](../pages/vbc_homepagetopnews/idCNKCS1LI0DM.md) 
+#### [欧盟愿与英国讨论爱尔兰边界问题--欧盟英退谈判代表巴尼尔](../pages/vbc_homepagetopnews/idCNKCS1LO02G.md) 
 
-#### [惠誉将意大利评级展望降至负面 债信评级维持不变](../pages/vbc_homepagetopnews/idCNKCS1LI0DJ.md) 
+#### [中国证监会下发两家企业IPO批文 募资总额不超过69亿元](../pages/vbc_homepagetopnews/idCNKCS1LO02O.md) 
 
-#### [安倍晋三称日中关系已回归“正轨”—报载](../pages/vbc_homepagetopnews/idCNKCS1LI0DF.md) 
+#### [李克强称中国将坚持改革开放 希望美国企业扩大对华投资](../pages/vbc_homepagetopnews/idCNKCS1LO02M.md) 
 
-#### [新加坡11月峰会有望就区域全面经济伙伴关系达成广泛共识—官员](../pages/vbc_homepagetopnews/idCNKCS1LI0DD.md) 
+#### [中国央行明确扩大人民币购售范围 应遵循审慎原则避免资金大进大出](../pages/vbc_homepagetopnews/idCNKCS1LO02E.md) 
 
-#### [美团点评IPO估值高达550亿美元--消息人士](../pages/vbc_homepagetopnews/idCNKCS1LI0DA.md) 
+#### [原太平保险集团董事长王滨就任中国人寿集团董事长](../pages/vbc_homepagetopnews/idCNKCS1LO028.md) 
 
-#### [阿根廷披索小幅反弹 因央行干预及IMF发声支持](../pages/vbc_homepagetopnews/idCNKCS1LI0D6.md) 
+#### [白宫经济顾问库德洛称中美续商贸易问题 双方分歧犹存-CNBC](../pages/vbc_homepagetopnews/idCNKCS1LO025.md) 
 
-#### [独家：美国指责中国通过领英进行“极具攻击性”的间谍行动](../pages/vbc_homepagetopnews/idCNKCS1LI0CX.md) 
+#### [美国总统特朗普称准备好对另外2670亿美元中国商品加征关税](../pages/vbc_homepagetopnews/idCNKCS1LO016.md) 
 
-#### [特朗普称不需在NAFTA中留住加拿大 警告国会不要干涉谈判](../pages/vbc_homepagetopnews/idCNKCS1LI0AR.md) 
+#### [欧股从五个月低位反弹 但贸易忧虑令本周跌幅创3月底来最大](../pages/vbc_homepagetopnews/idCNKCS1LO014.md) 
 
-#### [一周经济焦点：投资者结束夏日假期返场 迎接全球忧虑构筑的现实](../pages/vbc_homepagetopnews/idCNKCS1LI0AJ.md) 
+#### [美国原油因股市疲弱而微跌 布兰特原油因地缘政治因素小涨](../pages/vbc_homepagetopnews/idCNKCS1LO012.md) 
 
-#### [焦点：美国将与墨西哥签署双边贸易协议 但将继续与加拿大谈判](../pages/vbc_homepagetopnews/idCNKCS1LI09N.md) 
+#### [金价走低 因美国就业数据推升美元](../pages/vbc_homepagetopnews/idCNKCS1LO010.md) 
 
