@@ -7,3 +7,10 @@
 #### [美国之音中国专题](indexes/zyyyoeqqvi.md) &nbsp;|&nbsp; [美国之音台湾专题](indexes/zivymejqv_.md) &nbsp;|&nbsp; [美国之音美国专题](indexes/zg_yre_rvq.md) &nbsp;|&nbsp; [美国之音国际专题](indexes/z__yoerrvp.md) &nbsp;|&nbsp;[美国之音法律专题](indexes/zvyyieoqvp.md) &nbsp;|&nbsp;[美国之音人权专题](indexes/z_yyqerqvo.md) 
 
 #### [路透中国财经](indexes/chinaNews.md) &nbsp;|&nbsp; [路透深度分析](indexes/CNAnalysesNews.md) &nbsp;|&nbsp; [路透国际财经](indexes/CNIntlBizNews.md) &nbsp;|&nbsp; [路透时事要闻](indexes/CNTopGenNews.md)&nbsp;|&nbsp; [路透今日要闻集合](indexes/vbc_homepagetopnews.md) &nbsp;|&nbsp; [路透专栏集合](indexes/vbc_CN_columnist_all.md)
+
+----
+<img src="https://raw.githubusercontent.com/gfw-breaker/banned-news/master/scripts/img/qr.png" width="200px"/>  
+
+##### 使用微信、支付宝等二维码工具 扫一扫获取固定网址, 点击右上角"...", 在弹出菜单中点击“在浏览器打开”； 若网页被举报禁止访问，请点击“恢复申请访问”，将链接复制并粘贴到浏览器中打开
+
+<img src="https://raw.githubusercontent.com/gfw-breaker/banned-news/master/scripts/img/1.png" width="260px"/> &nbsp; <img src="https://raw.githubusercontent.com/gfw-breaker/banned-news/master/scripts/img/2.png" width="260px"/> &nbsp; <img src="https://raw.githubusercontent.com/gfw-breaker/banned-news/master/scripts/img/3.png" width="260px"/>
